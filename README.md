@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Cloud%20Engineer&fontSize=60&fontAlign=65&fontAlignY=35&rotate=20)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeryeong&layout=compact)](https://github.com/Hangyeryeong/github-readme-stats)
