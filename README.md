@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"><b>📚 Tech 📚</b></h3>
+<h3 align="center"><b>I've used at least once</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
