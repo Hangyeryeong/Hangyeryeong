@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hangyeryeong&theme=react-dark&bg_color=ffffff&point=0000FF)](https://github.com/ashutosh00710/github-readme-activity-graph)</br><br/><br/>
+[![Hangyeryeong's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hangyeryeong&theme=react-dark&bg_color=ffffff&point=0000FF)](https://github.com/ashutosh00710/github-readme-activity-graph)</br><br/><br/>
 
 
 
