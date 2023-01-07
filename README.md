@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 
 
-[![Hangyeryeong's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hangyeryeong&theme=react-dark&bg_color=ffffff&point=0000FF)](https://github.com/ashutosh00710/github-readme-activity-graph)</br><br/><br/>
-
 
 
 
@@ -58,4 +56,4 @@ Here are some ideas to get you started:
 
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeryeong&layout=compact)](https://github.com/Hangyeryeong/github-readme-stats)<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeryeong&layout=compact)](https://github.com/Hangyeryeong/github-readme-stats)<br/>
